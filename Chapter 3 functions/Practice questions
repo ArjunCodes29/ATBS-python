@@ -1,0 +1,29 @@
+1) BEcause they stop you from re-writing code
+they also organize your code
+IT helps in debugging as you only have to check one place 
+
+2) When called
+
+3) def 
+
+4) a function call is a statement that calls the function
+
+5)1 global scope, as many local scopes as functions
+
+6)It gets destroyd
+
+7)Yes it can its the value retuned by a function
+
+8)None
+
+9)global keyword
+
+10) Nonetype
+
+11) It allows you to use all the functions in that module
+
+12) spam.bacon()
+
+13) Keeping the error prone area in a try: clause and putting an except: clause with the error anticipated
+
+14)The error prone code, what you want to happen if a certain error occurs
