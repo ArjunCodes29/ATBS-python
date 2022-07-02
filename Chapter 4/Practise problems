@@ -1,0 +1,39 @@
+IT is a list containing no elements a 
+
+spam[2]="hello"
+
+'c'
+
+'c'
+
+'a, b'
+
+1
+
+[3.14, 'cat', 11, 'cat', True, 99]
+
+[3.14,  11, 'cat', True]
+
++ 
+*
+
+append puts at the end insert can put anywhere
+
+remove or del
+remove is when you know the index and delete when you know the value
+
+They are sequence data types
+they share common methods such as len, 
+They both can be concatanated and replicated
+
+Tuples are immutable and take little less time computing
+
+(42,)
+
+tuple([1,2,3])
+list[(1,2,3)]
+
+They contain references to the list
+
+copy only copies the list
+deep copy copies the list and the lists inside that list
