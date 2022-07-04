@@ -1,0 +1,19 @@
+{}
+
+{'foo': 42}
+
+Dictionary is accessed by key instead of index
+
+you get a KeyERror
+
+Nothing they are the same
+
+cat in spam iterates through all the keys in the Dictionary
+but cat in spam.values iterates through all the values in the Dictionary
+
+spam.setDefault('color','black')
+
+import pprint
+pprint()
+pformat()
+
